@@ -1,0 +1,48 @@
+{
+  "glyphs": {
+    "C": {
+      "ha": 713,
+      "x_min": 55,
+      "x_max": 677,
+      "o": "m 536 231 q -40 -67 -127 -67 q -60 0 -97 44 q -37 43 -37 113 q 0 76 42 127 q 42 51 104 51 q 76 0 115 -55 l 5 66 q -55 74 -139 74 q -104 0 -174 -74 q -70 -74 -70 -187 q 0 -117 70 -191 q 70 -75 177 -75 q 86 0 144 30 l 0 58 z ",
+      "vertices": []
+    },
+    "+": {
+      "ha": 713,
+      "x_min": 76,
+      "x_max": 637,
+      "o": "m 637 323 l 399 323 l 399 561 l 314 561 l 314 323 l 76 323 l 76 241 l 314 241 l 314 4 l 399 4 l 399 241 l 637 241 l 637 323 z ",
+      "vertices": []
+    }
+  },
+  "familyName": "Inter",
+  "ascender": 969,
+  "descender": -241,
+  "underlinePosition": -178,
+  "underlineThickness": 49,
+  "boundingBox": {
+    "yMin": -241,
+    "xMin": -598,
+    "yMax": 969,
+    "xMax": 1998
+  },
+  "resolution": 1000,
+  "original_font_information": {
+    "format": 0,
+    "fontFamily": "Inter",
+    "fontSubfamily": "Bold",
+    "uniqueID": "3.19;RSMS;Inter-Bold",
+    "fullName": "Inter Bold",
+    "version": "3.19",
+    "postScriptName": "Inter-Bold",
+    "trademark": "Inter UI is a trademark of RSMS.",
+    "manufacturer": "RSMS",
+    "designer": "Rasmus Andersson",
+    "manufacturerURL": "https://rsms.me/",
+    "designerURL": "https://rsms.me/",
+    "licence": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "licenceURL": "http://scripts.sil.org/OFL"
+  },
+  "cssFontWeight": "bold",
+  "cssFontStyle": "normal"
+}
